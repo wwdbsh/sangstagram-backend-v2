@@ -1,0 +1,19 @@
+{
+  "name": "sangstagram-back-v2",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wwdbsh/sangstagram-backend-v2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wwdbsh/sangstagram-backend-v2/issues"
+  },
+  "homepage": "https://github.com/wwdbsh/sangstagram-backend-v2#readme"
+}
